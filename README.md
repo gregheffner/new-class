@@ -1,5 +1,8 @@
 # TryHackMe Setup Script
 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![TryHackMe Testing](https://badgen.net/badge/TryHackMe/Learning/green?)
+
 This repository contains a setup script for TryHackMe, a platform for learning and practicing cybersecurity skills. The script automates the installation and configuration of necessary tools and dependencies to get started with TryHackMe.
 
 ## Blog:
