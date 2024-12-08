@@ -2,6 +2,9 @@
 
 This repository contains a setup script for TryHackMe, a platform for learning and practicing cybersecurity skills. The script automates the installation and configuration of necessary tools and dependencies to get started with TryHackMe.
 
+## Blog:
+Check out the write-up about this on my blog at: https://greg.heffner.live/image/pages/2024/Sept/classsetup.html
+
 ## Prerequisites
 
 Before running the script, make sure you have the following:
